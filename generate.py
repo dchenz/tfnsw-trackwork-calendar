@@ -6,6 +6,7 @@ from typing import NotRequired, TypedDict
 
 import pytz
 import requests
+from ics import Calendar, Event
 
 ENV_TFNSW_OPENDATA_API_KEY = "TFNSW_OPENDATA_API_KEY"
 
@@ -158,17 +159,46 @@ def getAffectedRoutes(alert: Alert) -> list[str]:
     return list(routes)
 
 
-def parseAlerts(alertsData: GetAlertsResponse):
+def saveCalendarFile(calendar: Calendar, transportMode: str, route: str):
+    dirname = transportMode
+    filename = re.sub(r"[^a-zA-Z0-9._-]", "_", route)
+    os.makedirs(dirname, exist_ok=True)
+    with open(os.path.join(dirname, filename), "w") as f:
+        f.writelines(calendar.serialize_iter())
+
+
+def main():
+    mode = MODE_SYDNEY_TRAINS
+    alertsData = fetchAlerts(mode)
+    calendarsByRoute: dict[str, Calendar] = {}
+
     for entity in alertsData["entity"]:
         alert = entity["alert"]
         if not isRelevant(alert):
             continue
-        print(getAffectedRoutes(alert), getEnglishText(alert["headerText"]))
 
+        headerText = getEnglishText(alert["headerText"])
+        if not headerText:
+            continue
 
-def main():
-    alertsData = fetchAlerts(MODE_SYDNEY_TRAINS)
-    parseAlerts(alertsData)
+        timeRange = getDatesFromDescription(alert)
+        if not timeRange:
+            timeRange = getActivePeriod(alert)
+        if not timeRange:
+            continue
+
+        event = Event()
+        event.name = headerText
+        event.begin, event.end = timeRange
+        event.description = getEnglishText(alert["descriptionText"])
+
+        for route in getAffectedRoutes(alert):
+            if route not in calendarsByRoute:
+                calendarsByRoute[route] = Calendar()
+            calendarsByRoute[route].events.add(event)
+
+    for route, calendar in calendarsByRoute.items():
+        saveCalendarFile(calendar, mode, route)
 
 
 if __name__ == "__main__":
