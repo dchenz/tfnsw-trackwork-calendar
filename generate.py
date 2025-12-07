@@ -1,4 +1,5 @@
 import os
+import re
 import sys
 from datetime import datetime
 from typing import NotRequired, TypedDict
@@ -97,11 +98,52 @@ def getActivePeriod(alert: Alert) -> tuple[datetime, datetime] | None:
         return activePeriodStart, activePeriodEnd
 
 
+def getDatesFromDescription(alert: Alert) -> tuple[datetime, datetime] | None:
+    descriptionText = getEnglishText(alert["descriptionText"])
+    if not descriptionText:
+        return None
+
+    # Regex to parse dates like "Saturday 6 December" or "Saturday 6 and Sunday 7 December"
+    pattern = (
+        r"(Saturday|Sunday|Monday|Tuesday|Wednesday|Thursday|Friday)\s+"
+        + r"(\d{1,2})"
+        + r"(?:\s*(?:and|&)\s*"
+        + r"(Saturday|Sunday|Monday|Tuesday|Wednesday|Thursday|Friday)?\s*"
+        + r"(\d{1,2})?)?\s*"
+        + r"(January|February|March|April|May|June|July|August|September|October|November|December)"
+    )
+    matches = re.findall(pattern, descriptionText)
+    if not matches:
+        return None
+
+    dates: list[datetime] = []
+
+    for m in matches:
+        weekday1, day1, weekday2, day2, month = m
+
+        day1 = int(day1)
+        year = datetime.now().year
+        dt1 = datetime.strptime(f"{day1} {month} {year}", "%d %B %Y")
+        dt1 = SYDNEY_TIME.localize(dt1)
+        dates.append(dt1)
+
+        if weekday2 and day2:
+            day2 = int(day2)
+            dt2 = datetime.strptime(f"{day2} {month} {year}", "%d %B %Y")
+            dt2 = SYDNEY_TIME.localize(dt2)
+            dates.append(dt2)
+
+    if not dates:
+        return None
+
+    return min(dates), max(dates)
+
+
 def parseAlerts(alertsData: GetAlertsResponse):
     for entity in alertsData["entity"]:
         alert = entity["alert"]
 
-        print(getActivePeriod(alert), getEnglishText(alert["headerText"]))
+        print(getDatesFromDescription(alert), getEnglishText(alert["headerText"]))
 
 
 def main():
