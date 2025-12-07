@@ -139,10 +139,21 @@ def getDatesFromDescription(alert: Alert) -> tuple[datetime, datetime] | None:
     return min(dates), max(dates)
 
 
+def isRelevant(alert: Alert) -> bool:
+    text = getEnglishText(alert["headerText"])
+    if not text:
+        return False
+    return bool(
+        re.search(r"buses replace trains between (.+?) and (.+?)", text, re.IGNORECASE)
+        or re.search(r"may affect how you travel", text, re.IGNORECASE)
+    )
+
+
 def parseAlerts(alertsData: GetAlertsResponse):
     for entity in alertsData["entity"]:
         alert = entity["alert"]
-
+        if not isRelevant(alert):
+            continue
         print(getDatesFromDescription(alert), getEnglishText(alert["headerText"]))
 
 
