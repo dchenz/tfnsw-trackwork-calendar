@@ -141,13 +141,7 @@ def getDatesFromDescription(alert: Alert) -> tuple[datetime, datetime] | None:
 
 
 def isRelevant(alert: Alert) -> bool:
-    text = getEnglishText(alert["headerText"])
-    if not text:
-        return False
-    return bool(
-        re.search(r"buses replace trains between (.+?) and (.+?)", text, re.IGNORECASE)
-        or re.search(r"may affect how you travel", text, re.IGNORECASE)
-    )
+    return alert["effect"] == "MODIFIED_SERVICE"
 
 
 def getAffectedRoutes(alert: Alert) -> list[str]:
