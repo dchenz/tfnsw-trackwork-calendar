@@ -102,7 +102,8 @@ def getActivePeriod(alert: Alert) -> list[tuple[datetime, datetime]]:
 
 
 def isRelevant(alert: Alert) -> bool:
-    return alert["effect"] == "MODIFIED_SERVICE"
+    headerText = getEnglishText(alert["headerText"]) or ""
+    return re.search("buses replace", headerText, flags=re.IGNORECASE) is not None
 
 
 def getAffectedRoutes(alert: Alert) -> list[str]:
