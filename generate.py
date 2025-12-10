@@ -90,13 +90,15 @@ def getEnglishText(text: TextWithTranslation) -> str | None:
             return translation["text"]
 
 
-def getActivePeriod(alert: Alert) -> tuple[datetime, datetime] | None:
+def getActivePeriod(alert: Alert) -> list[tuple[datetime, datetime]]:
+    schedule: list[tuple[datetime, datetime]] = []
     for period in alert["activePeriod"]:
         start = period["start"]
         end = period.get("end", start)
         activePeriodStart = datetime.fromtimestamp(int(start)).astimezone(SYDNEY_TIME)
         activePeriodEnd = datetime.fromtimestamp(int(end)).astimezone(SYDNEY_TIME)
-        return activePeriodStart, activePeriodEnd
+        schedule.append((activePeriodStart, activePeriodEnd))
+    return schedule
 
 
 def isRelevant(alert: Alert) -> bool:
@@ -146,17 +148,19 @@ def main():
             logSkippedAlert(entity)
             continue
 
-        event = Event()
-        event.uid = entity["id"]
-        event.name = headerText
-        event.begin, event.end = timeRange
-        event.description = getEnglishText(alert["descriptionText"])
-        event.location = getEnglishText(alert["url"])
+        for start, end in timeRange:
+            event = Event()
+            event.uid = entity["id"]
+            event.name = headerText
+            event.description = getEnglishText(alert["descriptionText"])
+            event.location = getEnglishText(alert["url"])
+            event.begin = start
+            event.end = end
 
-        for route in getAffectedRoutes(alert):
-            if route not in calendarsByRoute:
-                calendarsByRoute[route] = Calendar()
-            calendarsByRoute[route].events.add(event)
+            for route in getAffectedRoutes(alert):
+                if route not in calendarsByRoute:
+                    calendarsByRoute[route] = Calendar()
+                calendarsByRoute[route].events.add(event)
 
     for route, calendar in calendarsByRoute.items():
         saveCalendarFile(calendar, mode, route)
