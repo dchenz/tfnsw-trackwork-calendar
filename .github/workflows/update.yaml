@@ -1,0 +1,39 @@
+name: Update calendar data
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push changes to data branch
+        run: |
+          git checkout --orphan ics
+          python3 generate.py
+          git reset --hard
+          git add sydneytrains
+          git commit -m "Update calendar data" && git push -f origin ics
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TFNSW_OPENDATA_API_KEY: ${{ secrets.TFNSW_OPENDATA_API_KEY }}
