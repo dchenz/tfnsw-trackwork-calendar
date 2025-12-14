@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-63227\n\nFriday 26 to Sunday 28 December Buses replace trains between Parramatta and Olympic Park.
+DTEND:20251228T125900Z
+DTSTART:20251225T150000Z
+SUMMARY:Buses replace trains between Parramatta or Cabramatta and Olympic Park. Use T8 trains between Glenfield and the City
+UID:bfffb230-fd51-5994-8dee-c4f9c0cc2b9f
+URL:https://transportnsw.info/alerts/details#/ems-63227
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-63234\n\nTuesday 30 December From 10 20 AM to 1 20 PM\, buses replace trains between Leppington and Liverpool.
+DTEND:20251230T022000Z
+DTSTART:20251229T232000Z
+SUMMARY:Buses replace trains between Leppington and Liverpool
+UID:31f66e50-6624-56b8-919f-80377e48470e
+URL:https://transportnsw.info/alerts/details#/ems-63234
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-63232\n\nMonday 29 and Tuesday 30 December Buses replace Inner West trains between Ashfield and Central.
+DTEND:20251230T150000Z
+DTSTART:20251228T150000Z
+SUMMARY:Buses replace Inner West trains between Ashfield and Central. Change at Strathfield for express trains to Central
+UID:c8111278-6082-5ffe-b74c-e079e7436167
+URL:https://transportnsw.info/alerts/details#/ems-63232
+END:VEVENT
+END:VCALENDAR

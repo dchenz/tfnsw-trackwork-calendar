@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-63698\n\nSaturday 3 and Sunday 4 January Richmond trains run between Richmond and Liverpool. Change at Parramatta for trains towards the City.
+DTEND:20260104T125900Z
+DTSTART:20260102T150000Z
+SUMMARY:T1 Western Line: Trains run to a changed stopping pattern. Buses replace some trains between Richmond and Riverstone
+UID:89c1c8a8-cab5-5b91-81dc-d9a3641478b2
+URL:https://transportnsw.info/alerts/details#/ems-63698
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-63222\n\nFriday 26 to Sunday 28 December Buses replace trains between Parramatta and Olympic Park.
+DTEND:20251228T125900Z
+DTSTART:20251225T150000Z
+SUMMARY:T1 Western Line: Buses replace trains between Parramatta or Blacktown and Olympic Park
+UID:a0fd1703-1758-5464-9c8b-024e9c8fa710
+URL:https://transportnsw.info/alerts/details#/ems-63222
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-63229\n\nSaturday 20 and Sunday 21 December    \nBuses replace trains between Penrith\, Richmond and Granville.\nTrains run to a changed timetable between Granville and the City.\nBuses also run between some T1 Western Line stations and Tallawong. Frequent metro services run between Tallawong and the City.
+DTEND:20251221T125900Z
+DTSTART:20251219T150000Z
+SUMMARY:T1 Western Line: Buses replace trains between Penrith\, Richmond and Granville
+UID:edd1a8c6-9d9b-50fc-b559-c227b16ea5d4
+URL:https://transportnsw.info/alerts/details#/ems-63229
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-62760\n\nSaturday 13 and Sunday 14 December \nMost trains run to a changed timetable between Penrith and Central\, platforms 1-14\, and make an extra stop at Burwood.\nSaturday from 4PM to 1AM\, trains run to a changed timetable between Penrith and the City Circle but do not stop at Town Hall.\nRichmond trains run to a changed timetable and stopping pattern between Richmond and Liverpool only. Change trains at Parramatta to continue your journey towards the City.\nSunday from 5:30AM to 9:10AM\, buses replace trains between Richmond and Blacktown.\nFrom 9:10AM to 11AM\, buses replace trains between Richmond and Schofields.\nTrains run between Blacktown or Schofields and Liverpool.
+DTEND:20251214T125900Z
+DTSTART:20251212T150000Z
+SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern. Buses replace some trains
+UID:0db3a2c9-9b5e-5b85-81df-44dbd91a74c0
+URL:https://transportnsw.info/alerts/details#/ems-62760
+END:VEVENT
+END:VCALENDAR

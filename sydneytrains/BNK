@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-63239\n\nMonday 29 and Tuesday 30 December Buses replace Inner West trains between Ashfield and Central.
+DTEND:20251230T150000Z
+DTSTART:20251228T150000Z
+SUMMARY:Buses replace Inner West trains between Ashfield and Central. Change at Strathfield for express trains
+UID:5ed62c13-f154-5bc4-b112-5d4ac28ee01f
+URL:https://transportnsw.info/alerts/details#/ems-63239
+END:VEVENT
+END:VCALENDAR

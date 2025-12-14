@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-63746\n\nSaturday 3 and Sunday 4 January Buses replace trains between Hornsby and Strathfield.
+DTEND:20260104T125900Z
+DTSTART:20260102T150000Z
+SUMMARY:Buses replace trains between Hornsby and Strathfield
+UID:124fc678-afa7-55d5-bbbb-a27985b820d9
+URL:https://transportnsw.info/alerts/details#/ems-63746
+END:VEVENT
+END:VCALENDAR
