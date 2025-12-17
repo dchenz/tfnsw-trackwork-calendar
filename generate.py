@@ -119,7 +119,7 @@ def getAffectedRoutes(alert: Alert) -> list[str]:
 
 
 def saveCalendarFile(calendar: Calendar, transportMode: str, route: str):
-    dirname = transportMode
+    dirname = os.path.join("ics", transportMode)
     filename = re.sub(r"[^a-zA-Z0-9._-]", "_", route)
     os.makedirs(dirname, exist_ok=True)
     with open(os.path.join(dirname, filename), "w") as f:

@@ -7,14 +7,23 @@ if [ "$(git config user.name)" != "github-actions[bot]" ]; then
     exit 1
 fi
 
-git checkout --orphan "$DATA_BRANCH"
-
 python3 generate.py
 
-git reset --hard
+mv ics /tmp
 
-git add sydneytrains
+if git fetch origin "$DATA_BRANCH"; then
+    git checkout FETCH_HEAD
+else
+    git checkout --orphan "$DATA_BRANCH"
+    git reset --hard
+fi
 
-git commit -m "Update calendar data"
+rm -rf *
 
-git push -f origin "$DATA_BRANCH"
+mv /tmp/ics/* .
+
+git add .
+
+if git commit -m "Update calendar data"; then
+    git push origin "HEAD:$DATA_BRANCH"
+fi
