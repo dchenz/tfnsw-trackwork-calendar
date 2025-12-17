@@ -31,11 +31,7 @@ jobs:
 
       - name: Commit and push changes to data branch
         run: |
-          git checkout --orphan ics
-          python3 generate.py
-          git reset --hard
-          git add sydneytrains
-          git commit -m "Update calendar data" && git push -f origin ics
+          ./update.sh
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TFNSW_OPENDATA_API_KEY: ${{ secrets.TFNSW_OPENDATA_API_KEY }}
