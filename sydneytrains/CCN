@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-63259\n\nSaturday 20 December  \nFrom 7:50PM to 5AM\, buses replace trains between Wyong and Hornsby.\nTrains run to a changed timetable between Newcastle Interchange and Wyong.\nT1 and T9 trains run between Hornsby and Central.
-DTEND:20251220T180000Z
-DTSTART:20251220T085000Z
-SUMMARY:Buses replace trains between Wyong and Hornsby
-UID:51deff94-0ec2-5e97-8df7-12c1fac0a812
-URL:https://transportnsw.info/alerts/details#/ems-63259
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-63754\n\nSaturday 3 and Sunday 4 January Buses replace trains between Newcastle Interchange and Hornsby.
 DTEND:20260104T125900Z
 DTSTART:20260102T150000Z
