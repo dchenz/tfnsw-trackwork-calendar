@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-63229\n\nSaturday 20 and Sunday 21 December    \nBuses replace trains between Penrith\, Richmond and Granville.\nTrains run to a changed timetable between Granville and the City.\nBuses also run between some T1 Western Line stations and Tallawong. Frequent metro services run between Tallawong and the City.
-DTEND:20251221T125900Z
-DTSTART:20251219T150000Z
-SUMMARY:T1 Western Line: Buses replace trains between Penrith\, Richmond and Granville
-UID:edd1a8c6-9d9b-50fc-b559-c227b16ea5d4
-URL:https://transportnsw.info/alerts/details#/ems-63229
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-63687\n\nMonday 22 and Tuesday 23 December Nightly buses replace trains between Hornsby and Milsons Point.
+DTEND:20251223T143000Z
+DTSTART:20251223T102000Z
+SUMMARY:T1 North Shore Line: Buses replace trains between Hornsby and Milsons Point. Use metro between Chatswood and the City
+UID:fd8f4d60-4a70-5cb6-9bdd-fe10c73c0de9
+URL:https://transportnsw.info/alerts/details#/ems-63687
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-63690\n\nSaturday 3 and Sunday 4 January Buses replace trains between Berowra and Hornsby.
@@ -16,14 +16,6 @@ DTSTART:20260102T150000Z
 SUMMARY:T1 North Shore Line: Buses replace trains between Berowra and Hornsby
 UID:e21e4418-3489-590d-b1d5-40296c115f91
 URL:https://transportnsw.info/alerts/details#/ems-63690
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-63687\n\nMonday 22 and Tuesday 23 December Nightly buses replace trains between Hornsby and Milsons Point.
-DTEND:20251223T143000Z
-DTSTART:20251223T102000Z
-SUMMARY:T1 North Shore Line: Buses replace trains between Hornsby and Milsons Point. Use metro between Chatswood and the City
-UID:fd8f4d60-4a70-5cb6-9bdd-fe10c73c0de9
-URL:https://transportnsw.info/alerts/details#/ems-63687
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-63687\n\nMonday 22 and Tuesday 23 December Nightly buses replace trains between Hornsby and Milsons Point.

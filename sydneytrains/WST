@@ -26,14 +26,6 @@ UID:91596db4-5422-5711-9394-294a5789562b
 URL:https://transportnsw.info/alerts/details#/ems-64203
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-63229\n\nSaturday 20 and Sunday 21 December    \nBuses replace trains between Penrith\, Richmond and Granville.\nTrains run to a changed timetable between Granville and the City.\nBuses also run between some T1 Western Line stations and Tallawong. Frequent metro services run between Tallawong and the City.
-DTEND:20251221T125900Z
-DTSTART:20251219T150000Z
-SUMMARY:T1 Western Line: Buses replace trains between Penrith\, Richmond and Granville
-UID:edd1a8c6-9d9b-50fc-b559-c227b16ea5d4
-URL:https://transportnsw.info/alerts/details#/ems-63229
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64209\n\nSaturday 10 and Sunday 11 January Richmond trains run to a changed timetable and stopping pattern between Richmond and Liverpool.
 DTEND:20260111T125900Z
 DTSTART:20260109T150000Z

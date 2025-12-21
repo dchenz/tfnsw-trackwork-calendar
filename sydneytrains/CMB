@@ -34,14 +34,6 @@ UID:a210f999-48af-5389-ae33-03d1e8dac843
 URL:https://transportnsw.info/alerts/details#/ems-63274
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-63253\n\nSaturday 20 and Sunday 21 December    \nBuses replace trains between Richmond and Granville.\nT2 trains run to the normal timetable between Leppington and the City.\nExtra trains run to a changed timetable and stopping pattern between Liverpool and the City via Granville.
-DTEND:20251221T125900Z
-DTSTART:20251219T150000Z
-SUMMARY:Buses replace trains between Richmond and Granville
-UID:394a99c9-3af6-50c6-a449-82d04e439a28
-URL:https://transportnsw.info/alerts/details#/ems-63253
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-63713\n\nSaturday 3 and Sunday 4 January Trains run to a changed timetable between Richmond or Schofields and Liverpool.
 DTEND:20260104T125900Z
 DTSTART:20260102T150000Z

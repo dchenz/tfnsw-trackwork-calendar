@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-63257\n\nSaturday 20 and Sunday 21 December   \nBuses replace trains between Penrith and Granville.\nTrains from Penrith to Blue Mountains Line stations run up to 45 minutes later than the normal timetable.\nBathurst trains run between Bathurst and Lithgow or Penrith only\, some to a changed timetable.\nThe 19:25 and 22:17 Bathurst to Lithgow services run up to 35 minutes later than the normal timetable.\nIf you are travelling to Lithgow to connect with NSW TrainLink Regional Coaches please call 132 232 to confirm departure times.
-DTEND:20251221T125900Z
-DTSTART:20251219T150000Z
-SUMMARY:Buses replace trains between Penrith and Granville
-UID:f1424e30-0928-559d-a713-1238b013c157
-URL:https://transportnsw.info/alerts/details#/ems-63257
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64245\n\nMonday 5 and Tuesday 6 January Nightly from 11 50 PM\, buses replace trains from Blacktown to Penrith\, in that direction only.
 DTEND:20260105T150000Z
 DTSTART:20260105T125000Z
