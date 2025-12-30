@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-63234\n\nTuesday 30 December From 10 20 AM to 1 20 PM\, buses replace trains between Leppington and Liverpool.
-DTEND:20251230T022000Z
-DTSTART:20251229T232000Z
-SUMMARY:Buses replace trains between Leppington and Liverpool
-UID:31f66e50-6624-56b8-919f-80377e48470e
-URL:https://transportnsw.info/alerts/details#/ems-63234
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64213\n\nWednesday 7 and Thursday 8 January Nightly from 9 40 PM to 1 30 AM\, buses replace trains between Leppington and Fairfield.
 DTEND:20260107T143000Z
 DTSTART:20260107T104000Z
