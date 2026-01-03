@@ -3,16 +3,16 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64544\n\nWednesday 14 and Thursday 15 January \nNightly from 9:50PM\, buses replace trains between Sutherland and Hurstville.\nTrains run between Waterfall or Cronulla and Sutherland\, and between Hurstville and Bondi Junction\, to a changed timetable.\nSouth Coast Line trains continue to run between Sutherland and Hurstville.\nWednesday\, metro services do not run between Sydenham and Central. Change at Martin Place for metro services towards Tallawong.
-DTEND:20260114T150000Z
-DTSTART:20260114T105000Z
+DTEND:20260115T150000Z
+DTSTART:20260115T105000Z
 SUMMARY:Buses replace trains between Sutherland and Hurstville
 UID:a439865a-82db-5ed8-bc30-bb8854a619a6
 URL:https://transportnsw.info/alerts/details#/ems-64544
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64544\n\nWednesday 14 and Thursday 15 January \nNightly from 9:50PM\, buses replace trains between Sutherland and Hurstville.\nTrains run between Waterfall or Cronulla and Sutherland\, and between Hurstville and Bondi Junction\, to a changed timetable.\nSouth Coast Line trains continue to run between Sutherland and Hurstville.\nWednesday\, metro services do not run between Sydenham and Central. Change at Martin Place for metro services towards Tallawong.
-DTEND:20260115T150000Z
-DTSTART:20260115T105000Z
+DTEND:20260114T150000Z
+DTSTART:20260114T105000Z
 SUMMARY:Buses replace trains between Sutherland and Hurstville
 UID:a439865a-82db-5ed8-bc30-bb8854a619a6
 URL:https://transportnsw.info/alerts/details#/ems-64544
@@ -32,14 +32,6 @@ DTSTART:20260112T105000Z
 SUMMARY:Buses replace trains between Cronulla\, Sutherland and Hurstville
 UID:30865826-5d24-5224-a58c-5ed18cfb2c23
 URL:https://transportnsw.info/alerts/details#/ems-64542
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-63711\n\nSaturday 3 January From 4 AM to 11 30 AM\, buses replace trains between Waterfall and Sutherland.
-DTEND:20260103T003000Z
-DTSTART:20260102T170000Z
-SUMMARY:Buses replace trains between Waterfall and Sutherland
-UID:7bd59f86-d6f6-5c96-b92d-f01ce08454dc
-URL:https://transportnsw.info/alerts/details#/ems-63711
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64223\n\nSaturday 10 and Sunday 11 January Buses replace trains between Hurstville\, Central and Bondi Junction.

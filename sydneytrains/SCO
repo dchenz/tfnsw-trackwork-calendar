@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-63768\n\nSaturday 3 January From 3 AM to 11 AM\, buses replace trains between Dapto\, Port Kembla and Sutherland.
-DTEND:20260103T000000Z
-DTSTART:20260102T160000Z
-SUMMARY:Buses replace trains between Dapto\, Port Kembla and Sutherland
-UID:29a7f8cf-3229-5ee4-8473-f923ca384d30
-URL:https://transportnsw.info/alerts/details#/ems-63768
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64249\n\nSaturday 10 and Sunday 12 January Buses replace trains between Hurstville\, Central and Bondi Junction.
 DTEND:20260111T125900Z
 DTSTART:20260109T150000Z
