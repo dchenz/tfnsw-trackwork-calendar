@@ -2,28 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64559\n\nMonday 12 and Tuesday 13 January\nNightly from 11:50PM to 2:30AM\, buses replace trains from Blacktown to Penrith\, in that direction only.\nTrains run from Penrith to Blue Mountains Line stations\, some to a changed timetable.\nT1 Western Line trains run between Central and Blacktown. You may need to catch an earlier T1 train to ensure you meet your Blue Mountains bus and train connection.\nThe last train to Blue Mountains Line stations leaves Central at 23:10\, arriving Mount Victoria at 01:31.
-DTEND:20260112T153000Z
-DTSTART:20260112T125000Z
-SUMMARY:Buses replace trains from Blacktown to Penrith\, in that direction only
-UID:b3887718-aac2-5e49-9082-c3a4410e3bed
-URL:https://transportnsw.info/alerts/details#/ems-64559
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64245\n\nMonday 5 and Tuesday 6 January Nightly from 11 50 PM to 2 30 AM\, buses replace trains from Blacktown to Penrith\, in that direction only.
-DTEND:20260106T153000Z
-DTSTART:20260106T125000Z
-SUMMARY:Buses replace trains from Blacktown to Penrith\, in that direction only
-UID:19e97ed7-eb44-57f2-ba79-7c8fb87c2bdf
-URL:https://transportnsw.info/alerts/details#/ems-64245
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64563\n\nSaturday 17 and Sunday 18 January \nBuses replace trains between Springwood and St Marys.\nExpress buses also run between Springwood and Strathfield due to T1 Western Line trackwork between Parramatta and Olympic Park.\nTrains run between Blue Mountains Line stations and Springwood\, to a changed timetable.\nT1 Western Line trains run between St Marys and Leppington\, and between Olympic Park and the City.\nIf travelling to Lithgow to connect with NSW TrainLink Regional Coaches call 132 232 to confirm departure times.
 DTEND:20260118T125900Z
 DTSTART:20260116T150000Z
 SUMMARY:Buses replace trains between Springwood and St Marys
 UID:cc417833-6060-57f7-9dde-690665a168b9
 URL:https://transportnsw.info/alerts/details#/ems-64563
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64559\n\nMonday 12 and Tuesday 13 January\nNightly from 11:50PM to 2:30AM\, buses replace trains from Blacktown to Penrith\, in that direction only.\nTrains run from Penrith to Blue Mountains Line stations\, some to a changed timetable.\nT1 Western Line trains run between Central and Blacktown. You may need to catch an earlier T1 train to ensure you meet your Blue Mountains bus and train connection.\nThe last train to Blue Mountains Line stations leaves Central at 23:10\, arriving Mount Victoria at 01:31.
+DTEND:20260112T153000Z
+DTSTART:20260112T125000Z
+SUMMARY:Buses replace trains from Blacktown to Penrith\, in that direction only
+UID:b3887718-aac2-5e49-9082-c3a4410e3bed
+URL:https://transportnsw.info/alerts/details#/ems-64559
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64561\n\nFriday 16 January \nThe 18:56 Mount Victoria to Central\, and the 19:24 Lithgow to Central services will end at Penrith. Change at Penrith for T1 Western Line trains to continue your journey.\nThe last direct train to the Blue Mountains leaves Central at 20:09\, arriving Lithgow at 23:04.\nFrom 9:50PM to 2AM\, buses replace trains between Springwood and Blacktown.\nTrains run between Lithgow and Springwood\, and T1 trains run between St Marys\, Blacktown and the City\, some to a changed timetable.

@@ -9,12 +9,4 @@ SUMMARY:Buses replace trains between Hurstville\, Sydenham and Central. Trains v
 UID:be01ae52-442f-535d-9509-d4936326c92d
 URL:https://transportnsw.info/alerts/details#/ems-64242
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64239\n\nMonday 5 and Tuesday 6 January Nightly from 9 30 PM to 1 30 AM\, buses replace trains between Glenfield and Sydenham.
-DTEND:20260106T143000Z
-DTSTART:20260106T103000Z
-SUMMARY:Buses replace trains between Glenfield and Sydenham
-UID:4843398e-1462-5bc8-a884-d0a0e57f4ad9
-URL:https://transportnsw.info/alerts/details#/ems-64239
-END:VEVENT
 END:VCALENDAR

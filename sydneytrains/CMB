@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64225\n\nMonday 5 and Tuesday 6 January Nightly from 9 50 PM to 1 30 AM\, buses replace trains between Leppington and Glenfield.
-DTEND:20260106T143000Z
-DTSTART:20260106T105000Z
-SUMMARY:Buses replace trains between Leppington and Glenfield
-UID:0d10c1e9-d763-5b93-9851-fb6cd93c5cfc
-URL:https://transportnsw.info/alerts/details#/ems-64225
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65011\n\nSaturday 24 to Monday 26 January  \nBuses replace trains between Cabramatta and Granville.\nTrains run to a changed timetable and stopping pattern between Leppington and Lidcombe via Regents Park\, and between Schofields and Olympic Park.\nChange at:Lidcombe for trains towards Schofields or Leppington\nCabramatta or Granville for buses to Canley Vale\, Fairfield\, Yennora\, Guildford or Merrylands\nMonday from 9.30am to 1.30pm\, trains run between Schofields and Strathfield.
 DTEND:20260126T150000Z
 DTSTART:20260123T150000Z

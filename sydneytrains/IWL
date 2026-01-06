@@ -49,12 +49,4 @@ SUMMARY:Buses replace trains between Parramatta and Olympic Park
 UID:8c114638-285d-5ec1-aa80-0ef7d0441628
 URL:https://transportnsw.info/alerts/details#/ems-64537
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64211\n\nMonday 5 and Tuesday 6 January Nightly from 9 50 PM to 1 30 AM\, buses replace trains between Leppington and Glenfield.
-DTEND:20260106T143000Z
-DTSTART:20260106T105000Z
-SUMMARY:Buses replace trains between Leppington and Glenfield
-UID:0003d8f0-c4b8-55e6-92ae-60e8edc5430e
-URL:https://transportnsw.info/alerts/details#/ems-64211
-END:VEVENT
 END:VCALENDAR

@@ -42,14 +42,6 @@ UID:d8254f82-5ac3-594b-9e6b-1bdebf1be6d2
 URL:https://transportnsw.info/alerts/details#/ems-64533
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64203\n\nMonday 5 and Tuesday 6 January Nightly from 11 50 PM to 2 30 AM\, buses replace trains from Blacktown to Penrith\, in that direction only.
-DTEND:20260106T153000Z
-DTSTART:20260106T125000Z
-SUMMARY:T1 Western Line: Buses replace trains from Blacktown to Penrith
-UID:91596db4-5422-5711-9394-294a5789562b
-URL:https://transportnsw.info/alerts/details#/ems-64203
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64977\n\nMonday 19 and Tuesday 20 January\nNightly from 9.20pm to 1.30am\, buses replace trains from Hornsby to Milsons Point.\nThe last train from Hornsby to the City leaves Hornsby at 21:12\, arriving Wynyard at 21:55.\n\n\nNightly from 9.50pm to 1.30am\, buses replace trains from Milsons Point to Hornsby.\nThe last train to Hornsby leaves Wynyard at 21:52\, arriving Hornsby at 22:35.\n\n\nReplacement buses also stop at Crows Nest and Victoria Cross metro stations.\nUse metro services between Chatswood\, Crows Nest or Victoria Cross and the City.\nT9 trains run between Berowra or Hornsby and Central\, platforms 1-14.\nSome late-night buses run between T1 North Shore Line stations and Wynyard.
 DTEND:20260119T143000Z
 DTSTART:20260119T102000Z
