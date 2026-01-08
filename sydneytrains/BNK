@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64217\n\nWednesday 7 and Thursday 8 January Nightly from 9 40 PM to 1 30 AM\, buses replace trains between Liverpool and Lidcombe.
-DTEND:20260108T143000Z
-DTSTART:20260108T104000Z
-SUMMARY:Buses replace trains between Liverpool and Lidcombe
-UID:0d09f58e-6d5d-5c4d-832d-59b898ce9585
-URL:https://transportnsw.info/alerts/details#/ems-64217
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64539\n\nSaturday 17 and Sunday 18 January \nDirect trains do not run between T3 Liverpool Line stations and the City.\nTrains run to a changed timetable between Liverpool and Lidcombe only.\nBuses replace trains between Lidcombe and Olympic Park or Parramatta.\nChange at:\n- Lidcombe for buses to Olympic Park\, then trains from Olympic Park to the City\, or\n- Cabramatta for trains towards Leppington or T1 Western Line stations.
 DTEND:20260118T125900Z
 DTSTART:20260116T150000Z

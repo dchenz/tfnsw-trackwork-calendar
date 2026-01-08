@@ -9,12 +9,4 @@ SUMMARY:Buses replace trains between Cabramatta and Granville
 UID:d9b523f9-82f5-5adc-8179-f78bbd767ea1
 URL:https://transportnsw.info/alerts/details#/ems-65011
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64227\n\nWednesday 7 and Thursday 8 January Nightly from 9 40 PM to 1 30 AM\, buses replace trains between Leppington and Fairfield.
-DTEND:20260108T143000Z
-DTSTART:20260108T104000Z
-SUMMARY:Buses replace trains between Leppington and Fairfield
-UID:efd90215-957f-55c0-a540-2baf6d2f2c36
-URL:https://transportnsw.info/alerts/details#/ems-64227
-END:VEVENT
 END:VCALENDAR
