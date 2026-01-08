@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64563\n\nSaturday 17 and Sunday 18 January \nBuses replace trains between Springwood and St Marys.\nExpress buses also run between Springwood and Strathfield due to T1 Western Line trackwork between Parramatta and Olympic Park.\nTrains run between Blue Mountains Line stations and Springwood\, to a changed timetable.\nT1 Western Line trains run between St Marys and Leppington\, and between Olympic Park and the City.\nIf travelling to Lithgow to connect with NSW TrainLink Regional Coaches call 132 232 to confirm departure times.
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64563\n\nSaturday 17 and Sunday 18 January \nBuses replace trains between Springwood and St Marys.\nExpress buses also run between Springwood and Strathfield due to T1 Western Line trackwork between Parramatta and Olympic Park.\nTrains run between Bathurst\, Lithgow and Springwood\, to a changed timetable.\nT1 Western Line trains run between St Marys and Leppington\, and between Olympic Park and the City.\nIf travelling to Lithgow to connect with NSW TrainLink Regional Coaches call 132 232 to confirm departure times.
 DTEND:20260118T125900Z
 DTSTART:20260116T150000Z
 SUMMARY:Buses replace trains between Springwood and St Marys
