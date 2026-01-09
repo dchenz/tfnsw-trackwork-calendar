@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65001\n\nSaturday 24 and Sunday 25 January  \nBuses replace Inner West trains between Strathfield and Central. Express trains continue to run.\nTrains run to a changed timetable between Leppington and Lidcombe only. Change at Lidcombe for trains towards Central or T1 Western Line stations.\nSydney Metro and City Circle train trackwork may also affect how you travel\nTrains do not run between Central and Wynyard\, or on the City Circle.\nFor travel in the City use T4 trains\, light rail or local buses.\nSydney Metro services do not run between Sydenham and Tallawong.
+DTEND:20260125T125900Z
+DTSTART:20260123T150000Z
+SUMMARY:Buses replace Inner West trains between Strathfield and Central
+UID:fa17c251-0976-5a8c-85c9-e3f9db270e17
+URL:https://transportnsw.info/alerts/details#/ems-65001
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64539\n\nSaturday 17 and Sunday 18 January \nDirect trains do not run between T3 Liverpool Line stations and the City.\nTrains run to a changed timetable between Liverpool and Lidcombe only.\nBuses replace trains between Lidcombe and Olympic Park or Parramatta.\nChange at:\n- Lidcombe for buses to Olympic Park\, then trains from Olympic Park to the City\, or\n- Cabramatta for trains towards Leppington or T1 Western Line stations.
 DTEND:20260118T125900Z
 DTSTART:20260116T150000Z
@@ -10,11 +18,11 @@ UID:78dae18d-e328-57a5-8e68-e6576e38a9c1
 URL:https://transportnsw.info/alerts/details#/ems-64539
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65001\n\nSaturday 24 and Sunday 25 January  \nBuses replace Inner West trains between Strathfield and Central. Express trains continue to run.\nTrains run to a changed timetable between Leppington and Lidcombe only. Change at Lidcombe for trains towards Central or T1 Western Line stations.\nSydney Metro and City Circle train trackwork may also affect how you travel\nTrains do not run between Central and Wynyard\, or on the City Circle.\nFor travel in the City use T4 trains\, light rail or local buses.\nSydney Metro services do not run between Sydenham and Tallawong.
-DTEND:20260125T125900Z
-DTSTART:20260123T150000Z
-SUMMARY:Buses replace Inner West trains between Strathfield and Central
-UID:fa17c251-0976-5a8c-85c9-e3f9db270e17
-URL:https://transportnsw.info/alerts/details#/ems-65001
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65237\n\nUntil end of service Saturday 10 January.\nTrains are not running in both directions between Goulburn\, Moss Vale and Campbelltown due to severe heat conditions affecting equipment at a number of locations along the Line.\nA limited number of buses are providing a replacement service.\nPlease allow plenty of extra travel time\, listen for announcements\, check information screens and transport apps for service updates.
+DTEND:20260109T082922Z
+DTSTART:20260109T002922Z
+SUMMARY:Buses replace trains between Goulburn\, Moss Vale and Campbelltown due to severe heat conditions affecting rail infrastructure at various locations.
+UID:cd59aa30-1b7f-5943-9f08-9adf2197fc10
+URL:https://transportnsw.info/alerts/details#/ems-65237
 END:VEVENT
 END:VCALENDAR

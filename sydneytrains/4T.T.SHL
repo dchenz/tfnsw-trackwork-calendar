@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65011\n\nSaturday 24 to Monday 26 January  \nBuses replace trains between Cabramatta and Granville.\nTrains run to a changed timetable and stopping pattern between Leppington and Lidcombe via Regents Park\, and between Schofields and Olympic Park.\nChange at:Lidcombe for trains towards Schofields or Leppington\nCabramatta or Granville for buses to Canley Vale\, Fairfield\, Yennora\, Guildford or Merrylands\nMonday from 9.30am to 1.30pm\, trains run between Schofields and Strathfield.
-DTEND:20260126T150000Z
-DTSTART:20260123T150000Z
-SUMMARY:Buses replace trains between Cabramatta and Granville
-UID:d9b523f9-82f5-5adc-8179-f78bbd767ea1
-URL:https://transportnsw.info/alerts/details#/ems-65011
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65237\n\nUntil end of service Saturday 10 January.\nTrains are not running in both directions between Goulburn\, Moss Vale and Campbelltown due to severe heat conditions affecting equipment at a number of locations along the Line.\nA limited number of buses are providing a replacement service.\nPlease allow plenty of extra travel time\, listen for announcements\, check information screens and transport apps for service updates.
 DTEND:20260109T082922Z
 DTSTART:20260109T002922Z
