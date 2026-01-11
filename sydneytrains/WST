@@ -26,14 +26,6 @@ UID:f3710efd-88dd-557c-9331-ce868f4efb3f
 URL:https://transportnsw.info/alerts/details#/ems-64535
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64209\n\nSaturday 10 and Sunday 11 January Richmond trains run to a changed timetable and stopping pattern between Richmond and Liverpool.
-DTEND:20260111T125900Z
-DTSTART:20260109T150000Z
-SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern. Buses replace some trains between Penrith and Blacktown
-UID:52f3d088-2cd1-51fc-8925-86248134bdf4
-URL:https://transportnsw.info/alerts/details#/ems-64209
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64533\n\nFriday 16 January \nFrom 9:20PM to 2AM\, buses replace trains between Emu Plains and St Marys.\nTrains run between St Marys and the City\, some to a changed timetable.
 DTEND:20260116T150000Z
 DTSTART:20260116T102000Z

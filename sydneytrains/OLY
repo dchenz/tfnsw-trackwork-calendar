@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64233\n\nSaturday 10 and Sunday 11 January Buses replace trains between Olympic Park and Lidcombe.
-DTEND:20260111T125900Z
-DTSTART:20260109T150000Z
-SUMMARY:Buses replace trains between Olympic Park and Lidcombe
-UID:ff8069fc-6d28-592a-a388-aef0a49467e8
-URL:https://transportnsw.info/alerts/details#/ems-64233
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64554\n\nSaturday 17 and Sunday 18 January \nBuses replace trains between Olympic Park and Lidcombe\, with some continuing to Parramatta.\nTrains run between Olympic Park and the City.
 DTEND:20260118T125900Z
 DTSTART:20260116T150000Z

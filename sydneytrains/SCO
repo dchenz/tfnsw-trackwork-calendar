@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64249\n\nSaturday 10 and Sunday 12 January Buses replace trains between Hurstville\, Central and Bondi Junction.
-DTEND:20260111T125900Z
-DTSTART:20260109T150000Z
-SUMMARY:Buses replace trains between Hurstville and Bondi Junction
-UID:f539a7f9-5dea-5162-939c-905c2cb51460
-URL:https://transportnsw.info/alerts/details#/ems-64249
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65035\n\nWednesday 21 and Thursday 22 January  \nNightly from 9.50pm to 1.30am\, buses replace trains between Central and Bondi Junction.\nTrackwork buses do not leave from Martin Place Station.\nTrains run to a changed timetable between South Coast Line stations and Central\, platforms 1-14.\nChange at Central for buses to Kings Cross\, Edgecliff and Bondi Junction or metro services to Martin Place.\n\n\nNightly from 10.40pm to 1.30am\, trains do not stop at Wolli Creek but make extra stops at Arncliffe and Sydenham.\nBuses run between Sydenham\, Wolli Creek and Arncliffe.\nChange at Arncliffe or Sydenham for a bus to Wolli Creek or change at Central for a T8 Airport train if you have luggage or accessibility needs.
 DTEND:20260122T143000Z
 DTSTART:20260122T105000Z
