@@ -17,4 +17,12 @@ SUMMARY:Buses replace trains between Central and Bondi Junction. Trains do not s
 UID:9a93bead-eaa5-58d3-a252-ded581afce4a
 URL:https://transportnsw.info/alerts/details#/ems-65035
 END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65591\n\nSunday 1 February From 2 30 AM to 9 50 AM\, buses replace trains between Bomaderry and Wollongong.
+DTEND:20260131T225000Z
+DTSTART:20260131T153000Z
+SUMMARY:Buses replace trains between Bomaderry and Wollongong
+UID:0222bf2e-3bdb-5e35-a238-82bc443ae5f5
+URL:https://transportnsw.info/alerts/details#/ems-65591
+END:VEVENT
 END:VCALENDAR

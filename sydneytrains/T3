@@ -10,6 +10,14 @@ UID:78dae18d-e328-57a5-8e68-e6576e38a9c1
 URL:https://transportnsw.info/alerts/details#/ems-64539
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65542\n\nTuesday 27 January From 9 40 PM to 1 30 AM\, buses replace Inner West trains between Strathfield and Central. Express trains continue to run.
+DTEND:20260127T143000Z
+DTSTART:20260127T104000Z
+SUMMARY:Buses replace Inner West trains between Strathfield and Central
+UID:ef8ab87f-6da2-5084-a669-0a63785a5cc3
+URL:https://transportnsw.info/alerts/details#/ems-65542
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65001\n\nSaturday 24 and Sunday 25 January  \nBuses replace Inner West trains between Strathfield and Central. Express trains continue to run.\nTrains run to a changed timetable between Leppington and Lidcombe only. Change at Lidcombe for trains towards Central or T1 Western Line stations.\nSydney Metro and City Circle train trackwork may also affect how you travel\nTrains do not run between Central and Wynyard\, or on the City Circle.\nFor travel in the City use T4 trains\, light rail or local buses.\nSydney Metro services do not run between Sydenham and Tallawong.
 DTEND:20260125T125900Z
 DTSTART:20260123T150000Z

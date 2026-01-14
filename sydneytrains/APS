@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65562\n\nSunday 1 February From 8 40 AM to 3 PM\, buses replace the all-stations trains between Wolli Creek and Revesby.
+DTEND:20260201T040000Z
+DTSTART:20260131T214000Z
+SUMMARY:Buses replace the all-stations trains between Wolli Creek and Revesby
+UID:3d668bd3-c270-5e85-acc1-4d9a51b118a9
+URL:https://transportnsw.info/alerts/details#/ems-65562
+END:VEVENT
+END:VCALENDAR

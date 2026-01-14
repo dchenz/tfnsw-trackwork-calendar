@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65568\n\nSaturday 31 January and Sunday 1 February Buses replace trains between Hornsby and Strathfield.
+DTEND:20260201T125900Z
+DTSTART:20260130T150000Z
+SUMMARY:Buses replace trains between Hornsby and Strathfield
+UID:d1d8b545-3b5e-5979-be18-b8a5913d3df2
+URL:https://transportnsw.info/alerts/details#/ems-65568
+END:VEVENT
+END:VCALENDAR

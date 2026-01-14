@@ -9,4 +9,12 @@ SUMMARY:Buses replace trains between Cabramatta and Granville
 UID:d9b523f9-82f5-5adc-8179-f78bbd767ea1
 URL:https://transportnsw.info/alerts/details#/ems-65011
 END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65556\n\nSaturday 31 January and Sunday 1 February Some trains run to a changed timetable.
+DTEND:20260201T125900Z
+DTSTART:20260130T150000Z
+SUMMARY:Trains run to a changed timetable and stopping pattern. Buses replace some trains
+UID:ca5bb29a-52a4-51f4-a8b6-6a0276227750
+URL:https://transportnsw.info/alerts/details#/ems-65556
+END:VEVENT
 END:VCALENDAR
