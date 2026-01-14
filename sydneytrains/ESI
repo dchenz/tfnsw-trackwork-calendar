@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64544\n\nWednesday 14 and Thursday 15 January \nNightly from 9:50PM to 2:30AM\, buses replace trains between Sutherland and Hurstville.\nTrains run between Waterfall or Cronulla and Sutherland\, and between Hurstville and Bondi Junction\, to a changed timetable.\nSouth Coast Line trains continue to run between Sutherland and Hurstville.\nWednesday\, metro services do not run between Sydenham and Central. Change at Martin Place for metro services towards Tallawong.
-DTEND:20260115T153000Z
-DTSTART:20260115T105000Z
-SUMMARY:Buses replace trains between Sutherland and Hurstville
-UID:a439865a-82db-5ed8-bc30-bb8854a619a6
-URL:https://transportnsw.info/alerts/details#/ems-64544
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64544\n\nWednesday 14 and Thursday 15 January \nNightly from 9:50PM to 2:30AM\, buses replace trains between Sutherland and Hurstville.\nTrains run between Waterfall or Cronulla and Sutherland\, and between Hurstville and Bondi Junction\, to a changed timetable.\nSouth Coast Line trains continue to run between Sutherland and Hurstville.\nWednesday\, metro services do not run between Sydenham and Central. Change at Martin Place for metro services towards Tallawong.
-DTEND:20260114T153000Z
-DTSTART:20260114T105000Z
-SUMMARY:Buses replace trains between Sutherland and Hurstville
-UID:a439865a-82db-5ed8-bc30-bb8854a619a6
-URL:https://transportnsw.info/alerts/details#/ems-64544
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65005\n\nWednesday 21 and Thursday 22 January  \nNightly from 9.50pm to 1.30am\, buses replace trains between Central and Bondi Junction.\nTrackwork buses do not leave from Martin Place Station\, use metro services.\nMost trains run to a changed timetable between Waterfall or Cronulla and the City Circle\, with some making extra stops at St Peters and Erskineville.\nChange at: Sydenham or Central for metro services to Martin Place\nCentral for buses to Kings Cross and Edgecliff\nTown Hall for express buses to Bondi Junction\nNightly from 10.10pm to 1.30am\, trains do not stop at Wolli Creek but make an extra stop at Arncliffe.\nBuses run between Sydenham\, Wolli Creek and Arncliffe.\nChange at Arncliffe or Sydenham for a bus to Wolli Creek or change at Central for a T8 Airport train if you have luggage or accessibility needs.
 DTEND:20260121T143000Z
 DTSTART:20260121T105000Z
@@ -40,5 +24,13 @@ DTSTART:20260122T105000Z
 SUMMARY:Buses replace trains between Central and Bondi Junction. Trains do not stop at Wolli Creek
 UID:81f2c7ad-1a8c-5af7-989c-371d12e400ad
 URL:https://transportnsw.info/alerts/details#/ems-65005
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64544\n\nWednesday 14 and Thursday 15 January \nNightly from 9:50PM to 2:30AM\, buses replace trains between Sutherland and Hurstville.\nTrains run between Waterfall or Cronulla and Sutherland\, and between Hurstville and Bondi Junction\, to a changed timetable.\nSouth Coast Line trains continue to run between Sutherland and Hurstville.\nWednesday\, metro services do not run between Sydenham and Central. Change at Martin Place for metro services towards Tallawong.
+DTEND:20260115T153000Z
+DTSTART:20260115T105000Z
+SUMMARY:Buses replace trains between Sutherland and Hurstville
+UID:a439865a-82db-5ed8-bc30-bb8854a619a6
+URL:https://transportnsw.info/alerts/details#/ems-64544
 END:VEVENT
 END:VCALENDAR
