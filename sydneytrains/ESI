@@ -25,12 +25,4 @@ SUMMARY:Buses replace trains between Central and Bondi Junction. Trains do not s
 UID:81f2c7ad-1a8c-5af7-989c-371d12e400ad
 URL:https://transportnsw.info/alerts/details#/ems-65005
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64544\n\nWednesday 14 and Thursday 15 January \nNightly from 9:50PM to 2:30AM\, buses replace trains between Sutherland and Hurstville.\nTrains run between Waterfall or Cronulla and Sutherland\, and between Hurstville and Bondi Junction\, to a changed timetable.\nSouth Coast Line trains continue to run between Sutherland and Hurstville.\nWednesday\, metro services do not run between Sydenham and Central. Change at Martin Place for metro services towards Tallawong.
-DTEND:20260115T153000Z
-DTSTART:20260115T105000Z
-SUMMARY:Buses replace trains between Sutherland and Hurstville
-UID:a439865a-82db-5ed8-bc30-bb8854a619a6
-URL:https://transportnsw.info/alerts/details#/ems-64544
-END:VEVENT
 END:VCALENDAR
