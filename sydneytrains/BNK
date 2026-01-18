@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64539\n\nSaturday 17 and Sunday 18 January \nDirect trains do not run between T3 Liverpool Line stations and the City.\nTrains run to a changed timetable between Liverpool and Lidcombe only.\nBuses replace trains between Lidcombe and Olympic Park or Parramatta.\nChange at:\n- Lidcombe for buses to Olympic Park\, then trains from Olympic Park to the City\, or\n- Cabramatta for trains towards Leppington or T1 Western Line stations.
-DTEND:20260118T125900Z
-DTSTART:20260116T150000Z
-SUMMARY:Trains run between Liverpool and Lidcombe only. Buses replace trains between Lidcombe and Olympic Park
-UID:78dae18d-e328-57a5-8e68-e6576e38a9c1
-URL:https://transportnsw.info/alerts/details#/ems-64539
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65542\n\nTuesday 27 January From 9 40 PM to 1 30 AM\, buses replace Inner West trains between Strathfield and Central. Express trains continue to run.
 DTEND:20260127T143000Z
 DTSTART:20260127T104000Z

@@ -10,14 +10,6 @@ UID:ffe82dcb-7396-56d7-ace7-067d4285fceb
 URL:https://transportnsw.info/alerts/details#/ems-64977
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64535\n\nSaturday 17 and Sunday 18 January \nDirect trains do not run between T1 Western Line stations and the City.\nBuses replace trains between Emu Plains and St Marys\, and between Parramatta and Olympic Park.\nTrains run to a changed timetable between:\n- St Marys and Leppington\n- Richmond and Liverpool\n- Olympic Park and the City\nChange at:\n- Parramatta for buses towards Olympic Park\, then trains from Olympic Park to the City\, or\n- Glenfield for trains to the City via the Airport.
-DTEND:20260118T125900Z
-DTSTART:20260116T150000Z
-SUMMARY:T1 Western Line: Buses replace trains between Emu Plains and St Marys\, and between Parramatta and Olympic Park
-UID:f3710efd-88dd-557c-9331-ce868f4efb3f
-URL:https://transportnsw.info/alerts/details#/ems-64535
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64977\n\nMonday 19 and Tuesday 20 January\nNightly from 9.20pm to 1.30am\, buses replace trains from Hornsby to Milsons Point.\nThe last train from Hornsby to the City leaves Hornsby at 21:12\, arriving Wynyard at 21:55.\n\n\nNightly from 9.50pm to 1.30am\, buses replace trains from Milsons Point to Hornsby.\nThe last train to Hornsby leaves Wynyard at 21:52\, arriving Hornsby at 22:35.\n\n\nReplacement buses also stop at Crows Nest and Victoria Cross metro stations.\nUse metro services between Chatswood\, Crows Nest or Victoria Cross and the City.\nT9 trains run between Berowra or Hornsby and Central\, platforms 1-14.\nSome late-night buses run between T1 North Shore Line stations and Wynyard.
 DTEND:20260120T143000Z
 DTSTART:20260120T102000Z
