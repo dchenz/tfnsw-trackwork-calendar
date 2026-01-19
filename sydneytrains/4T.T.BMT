@@ -9,12 +9,4 @@ SUMMARY:Buses replace trains from Blacktown to Penrith\, in that direction only
 UID:4fdd278b-f513-5990-9189-97565b60f62e
 URL:https://transportnsw.info/alerts/details#/ems-65029
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65029\n\nMonday 19 and Tuesday 20 January\nNightly from 11.50pm to 2.30am\, buses replace trains from Blacktown to Penrith\, in that direction only.\nTrains run from Penrith to Blue Mountains Line stations\, some to a changed timetable.\nT1 Western Line trains run between Central and Blacktown. You may need to catch an earlier T1 train to ensure you meet your Blue Mountains bus and train connection.\nThe last train to Blue Mountains Line stations leaves Central at 23:10\, arriving Mount Victoria at 01:31.
-DTEND:20260119T153000Z
-DTSTART:20260119T125000Z
-SUMMARY:Buses replace trains from Blacktown to Penrith\, in that direction only
-UID:4fdd278b-f513-5990-9189-97565b60f62e
-URL:https://transportnsw.info/alerts/details#/ems-65029
-END:VEVENT
 END:VCALENDAR

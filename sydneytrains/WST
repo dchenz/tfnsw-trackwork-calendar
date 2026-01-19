@@ -3,14 +3,6 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64977\n\nMonday 19 and Tuesday 20 January\nNightly from 9.20pm to 1.30am\, buses replace trains from Hornsby to Milsons Point.\nThe last train from Hornsby to the City leaves Hornsby at 21:12\, arriving Wynyard at 21:55.\n\n\nNightly from 9.50pm to 1.30am\, buses replace trains from Milsons Point to Hornsby.\nThe last train to Hornsby leaves Wynyard at 21:52\, arriving Hornsby at 22:35.\n\n\nReplacement buses also stop at Crows Nest and Victoria Cross metro stations.\nUse metro services between Chatswood\, Crows Nest or Victoria Cross and the City.\nT9 trains run between Berowra or Hornsby and Central\, platforms 1-14.\nSome late-night buses run between T1 North Shore Line stations and Wynyard.
-DTEND:20260119T143000Z
-DTSTART:20260119T102000Z
-SUMMARY:T1 North Shore Line: Buses replace trains between Hornsby and Milsons Point. Use metro between Chatswood and the City
-UID:ffe82dcb-7396-56d7-ace7-067d4285fceb
-URL:https://transportnsw.info/alerts/details#/ems-64977
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64977\n\nMonday 19 and Tuesday 20 January\nNightly from 9.20pm to 1.30am\, buses replace trains from Hornsby to Milsons Point.\nThe last train from Hornsby to the City leaves Hornsby at 21:12\, arriving Wynyard at 21:55.\n\n\nNightly from 9.50pm to 1.30am\, buses replace trains from Milsons Point to Hornsby.\nThe last train to Hornsby leaves Wynyard at 21:52\, arriving Hornsby at 22:35.\n\n\nReplacement buses also stop at Crows Nest and Victoria Cross metro stations.\nUse metro services between Chatswood\, Crows Nest or Victoria Cross and the City.\nT9 trains run between Berowra or Hornsby and Central\, platforms 1-14.\nSome late-night buses run between T1 North Shore Line stations and Wynyard.
 DTEND:20260120T143000Z
 DTSTART:20260120T102000Z
 SUMMARY:T1 North Shore Line: Buses replace trains between Hornsby and Milsons Point. Use metro between Chatswood and the City
