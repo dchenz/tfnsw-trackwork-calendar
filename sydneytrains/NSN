@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64977\n\nMonday 19 and Tuesday 20 January\nNightly from 9.20pm to 1.30am\, buses replace trains from Hornsby to Milsons Point.\nThe last train from Hornsby to the City leaves Hornsby at 21:12\, arriving Wynyard at 21:55.\n\n\nNightly from 9.50pm to 1.30am\, buses replace trains from Milsons Point to Hornsby.\nThe last train to Hornsby leaves Wynyard at 21:52\, arriving Hornsby at 22:35.\n\n\nReplacement buses also stop at Crows Nest and Victoria Cross metro stations.\nUse metro services between Chatswood\, Crows Nest or Victoria Cross and the City.\nT9 trains run between Berowra or Hornsby and Central\, platforms 1-14.\nSome late-night buses run between T1 North Shore Line stations and Wynyard.
-DTEND:20260120T143000Z
-DTSTART:20260120T102000Z
-SUMMARY:T1 North Shore Line: Buses replace trains between Hornsby and Milsons Point. Use metro between Chatswood and the City
-UID:ffe82dcb-7396-56d7-ace7-067d4285fceb
-URL:https://transportnsw.info/alerts/details#/ems-64977
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65525\n\nSaturday 31 January and Sunday 1 February Buses replace trains between Berowra and Hornsby.
 DTEND:20260201T125900Z
 DTSTART:20260130T150000Z
@@ -18,9 +10,41 @@ UID:fef64a4d-2b00-5913-9984-d72c8432c1da
 URL:https://transportnsw.info/alerts/details#/ems-65525
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65950\n\nMonday 2 to Thursday 4 February     \nNightly from 9.50pm to 3am\, buses replace Central Coast & Newcastle Line trains between Hornsby\, Berowra and Gosford.\nT1 trains continue to run between Hornsby and Berowra until last service.
+DTEND:20260202T160000Z
+DTSTART:20260202T105000Z
+SUMMARY:T1 North Shore Line: Buses replace Central Coast & Newcastle Line trains between Hornsby\, Berowra and Gosford
+UID:0982f304-1248-5a40-96e5-209010b16d17
+URL:https://transportnsw.info/alerts/details#/ems-65950
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65950\n\nMonday 2 to Thursday 4 February     \nNightly from 9.50pm to 3am\, buses replace Central Coast & Newcastle Line trains between Hornsby\, Berowra and Gosford.\nT1 trains continue to run between Hornsby and Berowra until last service.
+DTEND:20260203T160000Z
+DTSTART:20260203T105000Z
+SUMMARY:T1 North Shore Line: Buses replace Central Coast & Newcastle Line trains between Hornsby\, Berowra and Gosford
+UID:0982f304-1248-5a40-96e5-209010b16d17
+URL:https://transportnsw.info/alerts/details#/ems-65950
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65950\n\nMonday 2 to Thursday 4 February     \nNightly from 9.50pm to 3am\, buses replace Central Coast & Newcastle Line trains between Hornsby\, Berowra and Gosford.\nT1 trains continue to run between Hornsby and Berowra until last service.
+DTEND:20260204T160000Z
+DTSTART:20260204T105000Z
+SUMMARY:T1 North Shore Line: Buses replace Central Coast & Newcastle Line trains between Hornsby\, Berowra and Gosford
+UID:0982f304-1248-5a40-96e5-209010b16d17
+URL:https://transportnsw.info/alerts/details#/ems-65950
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65950\n\nMonday 2 to Thursday 4 February     \nNightly from 9.50pm to 3am\, buses replace Central Coast & Newcastle Line trains between Hornsby\, Berowra and Gosford.\nT1 trains continue to run between Hornsby and Berowra until last service.
+DTEND:20260205T160000Z
+DTSTART:20260205T105000Z
+SUMMARY:T1 North Shore Line: Buses replace Central Coast & Newcastle Line trains between Hornsby\, Berowra and Gosford
+UID:0982f304-1248-5a40-96e5-209010b16d17
+URL:https://transportnsw.info/alerts/details#/ems-65950
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65523\n\nWednesday 28 and Thursday 29 January Nightly from 9 45 PM to 2 AM\, buses replace trains between Berowra and Hornsby.
 DTEND:20260129T150000Z
-DTSTART:20260129T104500Z
+DTSTART:20260129T104000Z
 SUMMARY:T1 North Shore Line: Buses replace trains between Berowra and Hornsby
 UID:71156570-1134-5030-a8a1-d56d2c98931b
 URL:https://transportnsw.info/alerts/details#/ems-65523
@@ -28,9 +52,25 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65523\n\nWednesday 28 and Thursday 29 January Nightly from 9 45 PM to 2 AM\, buses replace trains between Berowra and Hornsby.
 DTEND:20260128T150000Z
-DTSTART:20260128T104500Z
+DTSTART:20260128T104000Z
 SUMMARY:T1 North Shore Line: Buses replace trains between Berowra and Hornsby
 UID:71156570-1134-5030-a8a1-d56d2c98931b
 URL:https://transportnsw.info/alerts/details#/ems-65523
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65523\n\nWednesday 28 and Thursday 29 January Nightly from 9 45 PM to 2 AM\, buses replace trains between Berowra and Hornsby.
+DTEND:20260127T150000Z
+DTSTART:20260127T104000Z
+SUMMARY:T1 North Shore Line: Buses replace trains between Berowra and Hornsby
+UID:71156570-1134-5030-a8a1-d56d2c98931b
+URL:https://transportnsw.info/alerts/details#/ems-65523
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64977\n\nMonday 19 and Tuesday 20 January\nNightly from 9.20pm to 1.30am\, buses replace trains from Hornsby to Milsons Point.\nThe last train from Hornsby to the City leaves Hornsby at 21:12\, arriving Wynyard at 21:55.\n\n\nNightly from 9.50pm to 1.30am\, buses replace trains from Milsons Point to Hornsby.\nThe last train to Hornsby leaves Wynyard at 21:52\, arriving Hornsby at 22:35.\n\n\nReplacement buses also stop at Crows Nest and Victoria Cross metro stations.\nUse metro services between Chatswood\, Crows Nest or Victoria Cross and the City.\nT9 trains run between Berowra or Hornsby and Central\, platforms 1-14.\nSome late-night buses run between T1 North Shore Line stations and Wynyard.
+DTEND:20260120T143000Z
+DTSTART:20260120T102000Z
+SUMMARY:T1 North Shore Line: Buses replace trains between Hornsby and Milsons Point. Use metro between Chatswood and the City
+UID:ffe82dcb-7396-56d7-ace7-067d4285fceb
+URL:https://transportnsw.info/alerts/details#/ems-64977
 END:VEVENT
 END:VCALENDAR
