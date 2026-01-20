@@ -10,14 +10,6 @@ UID:bc594713-9f25-5d24-82a7-e07825e9a990
 URL:https://transportnsw.info/alerts/details#/ems-65574
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65577\n\nSaturday 31 January and Sunday 1 February Buses replace trains between Newcastle Interchange and Hornsby.
-DTEND:20260201T125900Z
-DTSTART:20260130T150000Z
-SUMMARY:Buses replace trains between Newcastle Interchange and Hornsby
-UID:3c50c3f2-81e2-5218-9c20-fa7bcfefd655
-URL:https://transportnsw.info/alerts/details#/ems-65577
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65574\n\nTuesday 27 to Thursday 29 January Nightly from 9 20 PM to 3 AM\, trains from Hornsby to Central Coast & Newcastle Line stations run to a changed timetable and make extra stops at Asquith\, Mount Colah and Mount Kuring-gai.
 DTEND:20260128T160000Z
 DTSTART:20260128T105000Z
@@ -32,5 +24,45 @@ DTSTART:20260127T105000Z
 SUMMARY:Trains run to a changed timetable and stopping pattern. Buses replace some trains
 UID:bc594713-9f25-5d24-82a7-e07825e9a990
 URL:https://transportnsw.info/alerts/details#/ems-65574
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65577\n\nSaturday 31 January and Sunday 1 February Buses replace trains between Newcastle Interchange and Hornsby.
+DTEND:20260201T125900Z
+DTSTART:20260130T150000Z
+SUMMARY:Buses replace trains between Newcastle Interchange and Hornsby
+UID:3c50c3f2-81e2-5218-9c20-fa7bcfefd655
+URL:https://transportnsw.info/alerts/details#/ems-65577
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-66007\n\nMonday 2 to Thursday 4 February     \nNightly from 10pm to 3.50am\, buses replace trains from Hornsby to Gosford.
+DTEND:20260202T165000Z
+DTSTART:20260202T110000Z
+SUMMARY:Buses replace trains between Gosford and Hornsby
+UID:72825a74-fe3b-5e09-b9da-27875d40d9cd
+URL:https://transportnsw.info/alerts/details#/ems-66007
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-66007\n\nMonday 2 to Thursday 4 February     \nNightly from 10pm to 3.50am\, buses replace trains from Hornsby to Gosford.
+DTEND:20260203T165000Z
+DTSTART:20260203T110000Z
+SUMMARY:Buses replace trains between Gosford and Hornsby
+UID:72825a74-fe3b-5e09-b9da-27875d40d9cd
+URL:https://transportnsw.info/alerts/details#/ems-66007
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-66007\n\nMonday 2 to Thursday 4 February     \nNightly from 10pm to 3.50am\, buses replace trains from Hornsby to Gosford.
+DTEND:20260204T165000Z
+DTSTART:20260204T110000Z
+SUMMARY:Buses replace trains between Gosford and Hornsby
+UID:72825a74-fe3b-5e09-b9da-27875d40d9cd
+URL:https://transportnsw.info/alerts/details#/ems-66007
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-66007\n\nMonday 2 to Thursday 4 February     \nNightly from 10pm to 3.50am\, buses replace trains from Hornsby to Gosford.
+DTEND:20260205T165000Z
+DTSTART:20260205T110000Z
+SUMMARY:Buses replace trains between Gosford and Hornsby
+UID:72825a74-fe3b-5e09-b9da-27875d40d9cd
+URL:https://transportnsw.info/alerts/details#/ems-66007
 END:VEVENT
 END:VCALENDAR

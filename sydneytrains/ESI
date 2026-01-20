@@ -25,4 +25,12 @@ SUMMARY:Buses replace trains between Central and Bondi Junction. Trains do not s
 UID:81f2c7ad-1a8c-5af7-989c-371d12e400ad
 URL:https://transportnsw.info/alerts/details#/ems-65005
 END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65986\n\nSaturday 7 and Sunday 8 February    \nBuses replace trains between Cronulla\, Waterfall and Central. Some buses start and end at Redfern.
+DTEND:20260208T125900Z
+DTSTART:20260206T150000Z
+SUMMARY:Buses replace trains between Cronulla\, Waterfall and Central
+UID:4c983b64-acb7-5034-a188-ed44fd1eb51c
+URL:https://transportnsw.info/alerts/details#/ems-65986
+END:VEVENT
 END:VCALENDAR

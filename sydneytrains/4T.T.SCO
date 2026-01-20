@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-66021\n\nFriday 6 February  \nFrom 10pm\, buses replace trains between Wollongong and Thirroul.
+DTEND:20260206T150000Z
+DTSTART:20260206T110000Z
+SUMMARY:Buses replace trains between Wollongong and Thirroul
+UID:c9c6c01d-121c-552a-b79d-66d6906e039d
+URL:https://transportnsw.info/alerts/details#/ems-66021
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65035\n\nWednesday 21 and Thursday 22 January  \nNightly from 9.50pm to 1.30am\, buses replace trains between Central and Bondi Junction.\nTrackwork buses do not leave from Martin Place Station.\nTrains run to a changed timetable between South Coast Line stations and Central\, platforms 1-14.\nChange at Central for buses to Kings Cross\, Edgecliff and Bondi Junction or metro services to Martin Place.\n\n\nNightly from 10.40pm to 1.30am\, trains do not stop at Wolli Creek but make extra stops at Arncliffe and Sydenham.\nBuses run between Sydenham\, Wolli Creek and Arncliffe.\nChange at Arncliffe or Sydenham for a bus to Wolli Creek or change at Central for a T8 Airport train if you have luggage or accessibility needs.
 DTEND:20260122T143000Z
 DTSTART:20260122T105000Z

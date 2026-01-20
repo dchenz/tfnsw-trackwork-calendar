@@ -57,4 +57,12 @@ SUMMARY:Buses replace trains between Leppington and Glenfield
 UID:88a32bef-cc3a-5f99-aa42-b03dd0f99c08
 URL:https://transportnsw.info/alerts/details#/ems-65965
 END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65981\n\nThursday 5 February \nFrom 9.40pm to 1.30am\, buses replace trains between Leppington and Fairfield.\nTrains run to a changed timetable between Fairfield and the City\, and between Glenfield and the City via the Airport.
+DTEND:20260205T143000Z
+DTSTART:20260205T104000Z
+SUMMARY:Buses replace trains between Leppington and Fairfield
+UID:b3d777ff-679f-55b1-a92d-724d45bed805
+URL:https://transportnsw.info/alerts/details#/ems-65981
+END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65993\n\nWednesday 4 and Thursday 5 February\nNightly from 9.40pm to 1.30am\, buses replace trains between Bankstown and Lidcombe.
+DTEND:20260205T143000Z
+DTSTART:20260205T104000Z
+SUMMARY:Buses replace trains between Bankstown and Lidcombe
+UID:6d94060f-7251-53a1-a4b9-1d10b3b8a79a
+URL:https://transportnsw.info/alerts/details#/ems-65993
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65993\n\nWednesday 4 and Thursday 5 February\nNightly from 9.40pm to 1.30am\, buses replace trains between Bankstown and Lidcombe.
+DTEND:20260204T143000Z
+DTSTART:20260204T104000Z
+SUMMARY:Buses replace trains between Bankstown and Lidcombe
+UID:6d94060f-7251-53a1-a4b9-1d10b3b8a79a
+URL:https://transportnsw.info/alerts/details#/ems-65993
+END:VEVENT
+END:VCALENDAR

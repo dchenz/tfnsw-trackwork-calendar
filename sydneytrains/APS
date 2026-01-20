@@ -2,11 +2,35 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65995\n\nMonday 2 and Tuesday 3 February  \nNightly from 9.30pm to 1.30am\, buses replace trains between Glenfield and Sydenham and between Sydenham and Central via the Airport.
+DTEND:20260203T143000Z
+DTSTART:20260203T103000Z
+SUMMARY:Buses replace trains between Glenfield\, Sydenham and Central via the Airport
+UID:655d150f-1783-5d3c-8bd4-2ec45131890c
+URL:https://transportnsw.info/alerts/details#/ems-65995
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65562\n\nSunday 1 February From 8 40 AM to 3 PM\, buses replace the all-stations trains between Wolli Creek and Revesby.
 DTEND:20260201T040000Z
 DTSTART:20260131T214000Z
 SUMMARY:Buses replace the all-stations trains between Wolli Creek and Revesby
 UID:3d668bd3-c270-5e85-acc1-4d9a51b118a9
 URL:https://transportnsw.info/alerts/details#/ems-65562
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65998\n\nSaturday 7 and Sunday 8 February  \nBuses replace trains between Sydenham and Central.
+DTEND:20260208T125900Z
+DTSTART:20260206T150000Z
+SUMMARY:Buses replace trains between Sydenham and Central. Trackwork on the T4 and South Coast lines may affect how you travel
+UID:a0f6d2b9-1245-53c7-9847-b72fba7bd3f6
+URL:https://transportnsw.info/alerts/details#/ems-65998
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65995\n\nMonday 2 and Tuesday 3 February  \nNightly from 9.30pm to 1.30am\, buses replace trains between Glenfield and Sydenham and between Sydenham and Central via the Airport.
+DTEND:20260202T143000Z
+DTSTART:20260202T103000Z
+SUMMARY:Buses replace trains between Glenfield\, Sydenham and Central via the Airport
+UID:655d150f-1783-5d3c-8bd4-2ec45131890c
+URL:https://transportnsw.info/alerts/details#/ems-65995
 END:VEVENT
 END:VCALENDAR
