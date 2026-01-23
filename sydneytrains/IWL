@@ -26,14 +26,6 @@ UID:5efe4580-dc36-515b-b230-bd28657e0cff
 URL:https://transportnsw.info/alerts/details#/ems-64993
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64991\n\nFriday 23 January   \nFrom 9.50pm\, buses replace Inner West trains between Ashfield and Central.\nTrains run to a changed timetable and stopping pattern between Leppington and Ashfield via Granville or Regents Park.\nChange at Strathfield for express trains to Central\, or buses if you are travelling to stations between Summer Hill and Macdonaldtown.\nRemain on the train for Burwood\, Croydon or Ashfield.\nThe last Inner West train leaves Central at 22:10\, arriving Ashfield at 22:27.
-DTEND:20260123T150000Z
-DTSTART:20260123T105000Z
-SUMMARY:Buses replace Inner West trains between Ashfield and Central. Trains run to a changed timetable and stopping pattern
-UID:6efdf02a-82d6-5164-9b51-812b18c23e9c
-URL:https://transportnsw.info/alerts/details#/ems-64991
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65969\n\nWednesday 4 February   \nFrom 9.30pm to 1.30am\, buses replace trains between Leppington and Granville.\nTrains run to a changed timetable between Granville and the City\, and between Glenfield and the City via the Airport.
 DTEND:20260204T143000Z
 DTSTART:20260204T103000Z
