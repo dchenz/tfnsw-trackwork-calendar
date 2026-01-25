@@ -18,14 +18,6 @@ UID:eb0b1034-dea7-5782-a148-4872b5cfb017
 URL:https://transportnsw.info/alerts/details#/ems-65534
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64993\n\nSaturday 24 and Sunday 25 January  \nBuses replace trains between Cabramatta and Granville\, and Inner West trains between Strathfield and Central. Express trains run between Strathfield and Central.\nTrains run to a changed timetable between Leppington and Lidcombe via Regents Park only.\nChange at:Cabramatta for buses to Canley Vale\, Fairfield\, Yennora\, Guildford and Merrylands\, or\nLidcombe for trains towards Central or T1 Western Line stations.\nSydney Metro and City Circle train trackwork may also affect how you travel\nTrains do not run between Central and Wynyard\, or on the City Circle.\nFor travel in the City use T4 trains\, light rail or local buses.\nSydney Metro services do not run between Sydenham and Tallawong.
-DTEND:20260125T125900Z
-DTSTART:20260123T150000Z
-SUMMARY:Buses replace trains between Cabramatta and Granville\, and Inner West trains between Strathfield and Central
-UID:5efe4580-dc36-515b-b230-bd28657e0cff
-URL:https://transportnsw.info/alerts/details#/ems-64993
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65969\n\nWednesday 4 February   \nFrom 9.30pm to 1.30am\, buses replace trains between Leppington and Granville.\nTrains run to a changed timetable between Granville and the City\, and between Glenfield and the City via the Airport.
 DTEND:20260204T143000Z
 DTSTART:20260204T103000Z
