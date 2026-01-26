@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-64995\n\nMonday 26 January  \nBuses replace trains between Cabramatta and Granville.\nTrains run to a changed timetable and stopping pattern between Leppington and the City via Regents Park.\nChange at Cabramatta for buses to Canley Vale\, Fairfield\, Yennora\, Guildford and Merrylands\, or\nChange at Lidcombe for trains towards Granville or T1 Western Line stations.
-DTEND:20260126T150000Z
-DTSTART:20260125T150000Z
-SUMMARY:Buses replace trains between Cabramatta and Granville
-UID:d9fd7527-c6a5-55dd-98af-50e030cfa049
-URL:https://transportnsw.info/alerts/details#/ems-64995
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65534\n\nTuesday 27 January From 9 40 PM to 1 30 AM\, buses replace Inner West trains between Strathfield and Central. Express trains continue to run.
 DTEND:20260127T143000Z
 DTSTART:20260127T104000Z

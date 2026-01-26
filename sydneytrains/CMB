@@ -2,28 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65988\n\nMonday 2 and Tuesday 3 February  \nNightly from 9.50pm to 1.30am\, buses replace trains between Leppington and Glenfield.
-DTEND:20260202T143000Z
-DTSTART:20260202T104000Z
-SUMMARY:Buses replace trains between Leppington and Glenfield
-UID:adfd37e6-6b9f-5c1f-83d6-07e2242981dc
-URL:https://transportnsw.info/alerts/details#/ems-65988
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65988\n\nMonday 2 and Tuesday 3 February  \nNightly from 9.50pm to 1.30am\, buses replace trains between Leppington and Glenfield.
-DTEND:20260203T143000Z
-DTSTART:20260203T104000Z
-SUMMARY:Buses replace trains between Leppington and Glenfield
-UID:adfd37e6-6b9f-5c1f-83d6-07e2242981dc
-URL:https://transportnsw.info/alerts/details#/ems-65988
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65991\n\nWednesday 4 February   \nFrom 9.30pm to 1.30am\, buses replace trains between Leppington and Granville.
 DTEND:20260204T143000Z
 DTSTART:20260204T103000Z
 SUMMARY:Buses replace trains between Leppington and Granville
 UID:122a2037-361c-5f21-b92d-579fe3f39d4b
 URL:https://transportnsw.info/alerts/details#/ems-65991
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65988\n\nMonday 2 and Tuesday 3 February  \nNightly from 9.50pm to 1.30am\, buses replace trains between Leppington and Glenfield.
+DTEND:20260202T143000Z
+DTSTART:20260202T104000Z
+SUMMARY:Buses replace trains between Leppington and Glenfield
+UID:adfd37e6-6b9f-5c1f-83d6-07e2242981dc
+URL:https://transportnsw.info/alerts/details#/ems-65988
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65556\n\nSaturday 31 January and Sunday 1 February Some trains run to a changed timetable.
@@ -34,11 +26,11 @@ UID:ca5bb29a-52a4-51f4-a8b6-6a0276227750
 URL:https://transportnsw.info/alerts/details#/ems-65556
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65011\n\nSaturday 24 to Monday 26 January  \nBuses replace trains between Cabramatta and Granville.\nTrains run to a changed timetable and stopping pattern between Leppington and Lidcombe via Regents Park\, and between Schofields and Olympic Park.\nChange at:Lidcombe for trains towards Schofields or Leppington\nCabramatta or Granville for buses to Canley Vale\, Fairfield\, Yennora\, Guildford or Merrylands\nMonday from 9.30am to 1.30pm\, trains run between Schofields and Strathfield.
-DTEND:20260126T150000Z
-DTSTART:20260123T150000Z
-SUMMARY:Buses replace trains between Cabramatta and Granville
-UID:d9b523f9-82f5-5adc-8179-f78bbd767ea1
-URL:https://transportnsw.info/alerts/details#/ems-65011
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65988\n\nMonday 2 and Tuesday 3 February  \nNightly from 9.50pm to 1.30am\, buses replace trains between Leppington and Glenfield.
+DTEND:20260203T143000Z
+DTSTART:20260203T104000Z
+SUMMARY:Buses replace trains between Leppington and Glenfield
+UID:adfd37e6-6b9f-5c1f-83d6-07e2242981dc
+URL:https://transportnsw.info/alerts/details#/ems-65988
 END:VEVENT
 END:VCALENDAR
