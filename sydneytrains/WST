@@ -2,11 +2,35 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-66442\n\nTuesday 10 to Thursday 12 February Nightly from 9 30 PM to 1 30 AM\, buses replace trains between Richmond and Blacktown.
+DTEND:20260211T143000Z
+DTSTART:20260211T103000Z
+SUMMARY:T1 Western Line: Buses replace trains between Richmond and Blacktown
+UID:63a0f321-67a1-530f-bfef-dfa3b1e0d934
+URL:https://transportnsw.info/alerts/details#/ems-66442
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-66442\n\nTuesday 10 to Thursday 12 February Nightly from 9 30 PM to 1 30 AM\, buses replace trains between Richmond and Blacktown.
+DTEND:20260212T143000Z
+DTSTART:20260212T103000Z
+SUMMARY:T1 Western Line: Buses replace trains between Richmond and Blacktown
+UID:63a0f321-67a1-530f-bfef-dfa3b1e0d934
+URL:https://transportnsw.info/alerts/details#/ems-66442
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65532\n\nSaturday 31 January and Sunday 1 February Trains run to a changed timetable and stopping pattern.
 DTEND:20260201T125900Z
 DTSTART:20260130T150000Z
 SUMMARY:T1 Western Line: Trains run to a changed timetable and stopping pattern. Buses replace some trains
 UID:a4205981-965e-5acf-9cc4-d4219c6ca47d
 URL:https://transportnsw.info/alerts/details#/ems-65532
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-66442\n\nTuesday 10 to Thursday 12 February Nightly from 9 30 PM to 1 30 AM\, buses replace trains between Richmond and Blacktown.
+DTEND:20260210T143000Z
+DTSTART:20260210T103000Z
+SUMMARY:T1 Western Line: Buses replace trains between Richmond and Blacktown
+UID:63a0f321-67a1-530f-bfef-dfa3b1e0d934
+URL:https://transportnsw.info/alerts/details#/ems-66442
 END:VEVENT
 END:VCALENDAR

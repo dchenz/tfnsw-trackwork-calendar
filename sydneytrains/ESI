@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65986\n\nSaturday 7 and Sunday 8 February    \nBuses replace trains between Cronulla\, Waterfall and Central. Some buses start and end at Redfern.
+DTEND:20260208T125900Z
+DTSTART:20260206T150000Z
+SUMMARY:Buses replace trains between Cronulla\, Waterfall and Central
+UID:4c983b64-acb7-5034-a188-ed44fd1eb51c
+URL:https://transportnsw.info/alerts/details#/ems-65986
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65551\n\nFriday 30 January to Sunday 1 February Friday from 9 40 PM\, buses replace trains between Cronulla and Sutherland.
 DTEND:20260201T125900Z
 DTSTART:20260130T104000Z
@@ -10,11 +18,35 @@ UID:866c3fce-7b65-5fc7-bbad-3f22f821072b
 URL:https://transportnsw.info/alerts/details#/ems-65551
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65986\n\nSaturday 7 and Sunday 8 February    \nBuses replace trains between Cronulla\, Waterfall and Central. Some buses start and end at Redfern.
-DTEND:20260208T125900Z
-DTSTART:20260206T150000Z
-SUMMARY:Buses replace trains between Cronulla\, Waterfall and Central
-UID:4c983b64-acb7-5034-a188-ed44fd1eb51c
-URL:https://transportnsw.info/alerts/details#/ems-65986
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-66455\n\nWednesday 11 and Thursday 12 February Nightly from 9 50 PM to 2 30 AM\, buses replace trains between Sutherland and Hurstville.
+DTEND:20260211T153000Z
+DTSTART:20260211T105000Z
+SUMMARY:Buses replace trains between Sutherland and Hurstville
+UID:37a47700-340f-569a-8083-418b3fbb78e9
+URL:https://transportnsw.info/alerts/details#/ems-66455
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-66455\n\nWednesday 11 and Thursday 12 February Nightly from 9 50 PM to 2 30 AM\, buses replace trains between Sutherland and Hurstville.
+DTEND:20260212T153000Z
+DTSTART:20260212T105000Z
+SUMMARY:Buses replace trains between Sutherland and Hurstville
+UID:37a47700-340f-569a-8083-418b3fbb78e9
+URL:https://transportnsw.info/alerts/details#/ems-66455
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-66452\n\nMonday 9 and Tuesday 10 February Nightly from 9 50 PM to 2 30 AM\, buses replace trains between Cronulla\, Sutherland and Hurstville.
+DTEND:20260209T153000Z
+DTSTART:20260209T105000Z
+SUMMARY:Buses replace trains between Cronulla\, Sutherland and Hurstville
+UID:6b2d1959-c7f5-54a5-8ff1-ab4d6780adb6
+URL:https://transportnsw.info/alerts/details#/ems-66452
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-66452\n\nMonday 9 and Tuesday 10 February Nightly from 9 50 PM to 2 30 AM\, buses replace trains between Cronulla\, Sutherland and Hurstville.
+DTEND:20260210T153000Z
+DTSTART:20260210T105000Z
+SUMMARY:Buses replace trains between Cronulla\, Sutherland and Hurstville
+UID:6b2d1959-c7f5-54a5-8ff1-ab4d6780adb6
+URL:https://transportnsw.info/alerts/details#/ems-66452
 END:VEVENT
 END:VCALENDAR
