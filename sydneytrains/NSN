@@ -11,16 +11,16 @@ URL:https://transportnsw.info/alerts/details#/ems-65525
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65950\n\nMonday 2 to Thursday 4 February     \nNightly from 9.50pm to 3am\, buses replace Central Coast & Newcastle Line trains between Hornsby\, Berowra and Gosford.\nT1 trains continue to run between Hornsby and Berowra until last service.
-DTEND:20260202T160000Z
-DTSTART:20260202T105000Z
+DTEND:20260203T160000Z
+DTSTART:20260203T105000Z
 SUMMARY:T1 North Shore Line: Buses replace Central Coast & Newcastle Line trains between Hornsby\, Berowra and Gosford
 UID:0982f304-1248-5a40-96e5-209010b16d17
 URL:https://transportnsw.info/alerts/details#/ems-65950
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65950\n\nMonday 2 to Thursday 4 February     \nNightly from 9.50pm to 3am\, buses replace Central Coast & Newcastle Line trains between Hornsby\, Berowra and Gosford.\nT1 trains continue to run between Hornsby and Berowra until last service.
-DTEND:20260203T160000Z
-DTSTART:20260203T105000Z
+DTEND:20260202T160000Z
+DTSTART:20260202T105000Z
 SUMMARY:T1 North Shore Line: Buses replace Central Coast & Newcastle Line trains between Hornsby\, Berowra and Gosford
 UID:0982f304-1248-5a40-96e5-209010b16d17
 URL:https://transportnsw.info/alerts/details#/ems-65950
@@ -53,14 +53,6 @@ BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65523\n\nWednesday 28 and Thursday 29 January Nightly from 9 45 PM to 2 AM\, buses replace trains between Berowra and Hornsby.
 DTEND:20260128T150000Z
 DTSTART:20260128T104000Z
-SUMMARY:T1 North Shore Line: Buses replace trains between Berowra and Hornsby
-UID:71156570-1134-5030-a8a1-d56d2c98931b
-URL:https://transportnsw.info/alerts/details#/ems-65523
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65523\n\nWednesday 28 and Thursday 29 January Nightly from 9 45 PM to 2 AM\, buses replace trains between Berowra and Hornsby.
-DTEND:20260127T150000Z
-DTSTART:20260127T104000Z
 SUMMARY:T1 North Shore Line: Buses replace trains between Berowra and Hornsby
 UID:71156570-1134-5030-a8a1-d56d2c98931b
 URL:https://transportnsw.info/alerts/details#/ems-65523

@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65534\n\nTuesday 27 January From 9 40 PM to 1 30 AM\, buses replace Inner West trains between Strathfield and Central. Express trains continue to run.
-DTEND:20260127T143000Z
-DTSTART:20260127T104000Z
-SUMMARY:Buses replace Inner West trains between Strathfield and Central
-UID:eb0b1034-dea7-5782-a148-4872b5cfb017
-URL:https://transportnsw.info/alerts/details#/ems-65534
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65969\n\nWednesday 4 February   \nFrom 9.30pm to 1.30am\, buses replace trains between Leppington and Granville.\nTrains run to a changed timetable between Granville and the City\, and between Glenfield and the City via the Airport.
 DTEND:20260204T143000Z
 DTSTART:20260204T103000Z
 SUMMARY:Buses replace trains between Leppington and Granville
 UID:620080e0-f2ee-5be9-8d61-c3ed778ec9a6
 URL:https://transportnsw.info/alerts/details#/ems-65969
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-66446\n\nSunday 15 February From 5 30 AM to 9 40 AM\, buses replace trains between Cabramatta and Granville.
+DTEND:20260214T224000Z
+DTSTART:20260214T183000Z
+SUMMARY:Buses replace trains between Cabramatta and Granville
+UID:73f4584d-cceb-5f10-9d7a-5c0126821e4b
+URL:https://transportnsw.info/alerts/details#/ems-66446
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65965\n\nMonday 2 and Tuesday 3 February\nNightly from 9.50pm to 1.30am\, buses replace trains between Leppington and Glenfield.\nTrains run to a changed timetable between Macarthur\, Glenfield and the City via Granville.
@@ -40,13 +40,5 @@ DTSTART:20260205T104000Z
 SUMMARY:Buses replace trains between Leppington and Fairfield
 UID:b3d777ff-679f-55b1-a92d-724d45bed805
 URL:https://transportnsw.info/alerts/details#/ems-65981
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-66446\n\nSunday 15 February From 5 30 AM to 9 40 AM\, buses replace trains between Cabramatta and Granville.
-DTEND:20260214T224000Z
-DTSTART:20260214T183000Z
-SUMMARY:Buses replace trains between Cabramatta and Granville
-UID:73f4584d-cceb-5f10-9d7a-5c0126821e4b
-URL:https://transportnsw.info/alerts/details#/ems-66446
 END:VEVENT
 END:VCALENDAR

@@ -10,14 +10,6 @@ UID:e832210c-cd92-550f-a1cb-27f5bf5954dc
 URL:https://transportnsw.info/alerts/details#/ems-65984
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65542\n\nTuesday 27 January From 9 40 PM to 1 30 AM\, buses replace Inner West trains between Strathfield and Central. Express trains continue to run.
-DTEND:20260127T143000Z
-DTSTART:20260127T104000Z
-SUMMARY:Buses replace Inner West trains between Strathfield and Central
-UID:ef8ab87f-6da2-5084-a669-0a63785a5cc3
-URL:https://transportnsw.info/alerts/details#/ems-65542
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65984\n\nWednesday 4 and Thursday 5 February \nNightly from 9.40pm to 1.30am\, buses replace trains between Liverpool and Lidcombe.
 DTEND:20260204T143000Z
 DTSTART:20260204T104000Z
