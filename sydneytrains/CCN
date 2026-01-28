@@ -10,14 +10,6 @@ UID:bc594713-9f25-5d24-82a7-e07825e9a990
 URL:https://transportnsw.info/alerts/details#/ems-65574
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65574\n\nTuesday 27 to Thursday 29 January Nightly from 9 20 PM to 3 AM\, trains from Hornsby to Central Coast & Newcastle Line stations run to a changed timetable and make extra stops at Asquith\, Mount Colah and Mount Kuring-gai.
-DTEND:20260128T160000Z
-DTSTART:20260128T105000Z
-SUMMARY:Trains run to a changed timetable and stopping pattern. Buses replace some trains
-UID:bc594713-9f25-5d24-82a7-e07825e9a990
-URL:https://transportnsw.info/alerts/details#/ems-65574
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-66500\n\nTuesday 10 and Wednesday 11 February Nightly buses replace trains between Gosford and Wyong.
 DTEND:20260211T160000Z
 DTSTART:20260211T102000Z
