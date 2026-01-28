@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-66510\n\nSaturday 14 and Sunday 15 February Buses replace trains between Bomaderry and Wollongong.
+DTEND:20260215T125900Z
+DTSTART:20260213T135000Z
+SUMMARY:Buses replace trains between Bomaderry and Wollongong
+UID:6545a221-5be2-5c23-af67-2a8f673f36ee
+URL:https://transportnsw.info/alerts/details#/ems-66510
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-66021\n\nFriday 6 February  \nFrom 10pm\, buses replace trains between Wollongong and Thirroul.
 DTEND:20260206T150000Z
 DTSTART:20260206T110000Z

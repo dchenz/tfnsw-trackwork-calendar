@@ -18,6 +18,14 @@ UID:bc594713-9f25-5d24-82a7-e07825e9a990
 URL:https://transportnsw.info/alerts/details#/ems-65574
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-66500\n\nTuesday 10 and Wednesday 11 February Nightly buses replace trains between Gosford and Wyong.
+DTEND:20260211T160000Z
+DTSTART:20260211T102000Z
+SUMMARY:Buses replace trains between Wyong and Gosford
+UID:3c3474eb-5053-50ed-8807-fca43dc4886a
+URL:https://transportnsw.info/alerts/details#/ems-66500
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65577\n\nSaturday 31 January and Sunday 1 February Buses replace trains between Newcastle Interchange and Hornsby.
 DTEND:20260201T125900Z
 DTSTART:20260130T150000Z
@@ -56,5 +64,13 @@ DTSTART:20260205T110000Z
 SUMMARY:Buses replace trains between Gosford and Hornsby
 UID:72825a74-fe3b-5e09-b9da-27875d40d9cd
 URL:https://transportnsw.info/alerts/details#/ems-66007
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-66500\n\nTuesday 10 and Wednesday 11 February Nightly buses replace trains between Gosford and Wyong.
+DTEND:20260210T160000Z
+DTSTART:20260210T102000Z
+SUMMARY:Buses replace trains between Wyong and Gosford
+UID:3c3474eb-5053-50ed-8807-fca43dc4886a
+URL:https://transportnsw.info/alerts/details#/ems-66500
 END:VEVENT
 END:VCALENDAR
