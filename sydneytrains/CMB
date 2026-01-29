@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:https://transportnsw.info/alerts/details#/ems-66586\n\nThursday 5 February \nFrom 9:40PM to 1:30AM\, buses replace trains between Leppington and Fairfield.\nTrains run to a changed timetable between Fairfield and Richmond.
+DTEND:20260205T143000Z
+DTSTART:20260205T104000Z
+SUMMARY:Buses replace trains between Leppington and Fairfield
+UID:486423db-2bc3-5c2e-8ca8-86850ffead2d
+URL:https://transportnsw.info/alerts/details#/ems-66586
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65988\n\nMonday 2 and Tuesday 3 February  \nNightly from 9.50pm to 1.30am\, buses replace trains between Leppington and Glenfield.
 DTEND:20260202T143000Z
 DTSTART:20260202T104000Z
