@@ -18,14 +18,6 @@ UID:c9c6c01d-121c-552a-b79d-66d6906e039d
 URL:https://transportnsw.info/alerts/details#/ems-66021
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65589\n\nSaturday 31 January From 3 AM to 11 AM\, buses replace trains between Dapto\, Port Kembla and Sutherland.
-DTEND:20260131T000000Z
-DTSTART:20260130T160000Z
-SUMMARY:Buses replace trains between Dapto\, Port Kembla and Sutherland
-UID:dfedd647-d97c-553c-aa7a-b0e8d0a90cbb
-URL:https://transportnsw.info/alerts/details#/ems-65589
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:https://transportnsw.info/alerts/details#/ems-65591\n\nSunday 1 February From 2 30 AM to 9 50 AM\, buses replace trains between Bomaderry and Wollongong.
 DTEND:20260131T225000Z
 DTSTART:20260131T153000Z
